@@ -74,7 +74,7 @@ Thanks for [Robot Riot Records](https://linktr.ee/robotriot) for donation which 
 2. **For Mac OS users:** If not already installed, install Homebrew: [brew.sh](https://brew.sh/)
 3. Install ffmpeg *(necessary)*:
    ```bash
-   brew install ffmpeg # For Linux users: use package manager of distribution you're using to download and instal FFmpeg
+   brew install ffmpeg libxcb-xinerama0 # For Linux users: use package manager of distribution you're using to download and instal FFmpeg
    ```
 4. Install ntscQT:
     ```bash
